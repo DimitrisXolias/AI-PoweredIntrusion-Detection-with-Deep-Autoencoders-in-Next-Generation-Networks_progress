@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.zip
+*.jar
+ids-env/
+ryu-env/
+output_logs.txt
+*.pcap
+*.csv
+*.log
+
